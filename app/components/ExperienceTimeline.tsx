@@ -29,9 +29,17 @@ const timeline = [
     type: 'work',
     year: '2022',
     start: 'Mar 2022',
-    end: 'Present',
+    end: 'Sept 2025',
     company: 'Phreesia',
     role: 'Data Engineer III',
+  },
+  {
+    type: 'work',
+    year: '2025',
+    start: 'Sept 2025',
+    end: 'Present',
+    company: 'Phreesia',
+    role: 'Data Engineer IV',
   },
 ];
 
